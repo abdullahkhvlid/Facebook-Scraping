@@ -1,4 +1,4 @@
-# Facebook Posts Scraper
+# Facebook Scraper
 A Python-based automation script that logs into Facebook, searches for posts containing a specific keyword, scrolls through results, and extracts post details into an Excel file. Built using Selenium for browser automation.
 
 Features
@@ -75,5 +75,5 @@ This script is intended for educational and research purposes only.
 
 Scraping personal data without consent may violate Facebook’s terms of service.
 
-Use responsibly and comply with all applicable laws and platform rules.
+Use responsibly and comply with all applicable laws and platform rules. 
 
