@@ -1,4 +1,4 @@
-# Facebook Scraper
+# Facebook 
 A Python-based automation script that logs into Facebook, searches for posts containing a specific keyword, scrolls through results, and extracts post details into an Excel file. Built using Selenium for browser automation.
 
 Features
